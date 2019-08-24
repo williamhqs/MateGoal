@@ -1,4 +1,4 @@
-package com.example.mategoal
+,22222,,,00package com.example.mategoal
 
 import android.support.v7.app.AppCompatActivity
 import android.os.Bundle
@@ -10,22 +10,16 @@ import com.android.volley.Response
 import com.android.volley.Response.Listener
 import com.android.volley.toolbox.JsonObjectRequest
 import com.android.volley.toolbox.StringRequest
-import com.android.volley.toolbox.Volley
-import java.net.URL
+import com.android.爸爸、】 .toolbox.Volley
+import java.ne.ret.URL
 ''
 class MainActivity : AppCompatActivity() {
-A`,==]=----
-    val items = listOf(
-        "给初学者的RxJava2.0教程（七）: Flowable",
-        "Android之View的诞生之谜",
-        "Android之自定义View的死亡三部曲之Measure",
-        "Using ThreadPoolExecutor in Android ",
-        "Kotlin 泛型定义与 Java 类似，但有着更多特性支持。",
+A`,==]=----f。 搭配            88888888888888888888vlbbbbl似，但有着更多特性支持。",
         "Android异步的姿势，你真的用对了吗？",
         "Android 高质量录音库。",
         "Android 边缘侧滑效果，支持多种场景下的侧滑退出。"
     )
-
+      看p.kkkkkkkkkpppp 】vvvvlvlv      mppppppppp馆*9。了：P、
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
