@@ -7,11 +7,15 @@
         android:layout_height="match_parent"
         tools:context=".MainActivity">
     <android.support.v7.widget.RecyclerView
+            android:paddingTop="?attr/actionBarSize"
+            android:clipToPadding="false"
             android:id="@+id/listView"
             android:layout_width="395dp"
-            android:layout_height="715dp" app:layout_constraintTop_toTopOf="parent"
+            android:layout_height="715dp"
+            app:layout_constraintTop_toTopOf="parent"
             app:layout_constraintStart_toStartOf="parent"
-            app:layout_constraintEnd_toEndOf="parent" app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintBottom_toBottomOf="parent"
             android:background="#F44336"
             android:scrollbars="vertical">
 
